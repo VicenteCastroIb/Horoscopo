@@ -1,13 +1,3 @@
-// Hi! My name is Vicente =)
-// I've been learning to code for almost 6 months now (Full-stack).
-// I come from a healthcare background (odontology), but my true passion is programming and software development.
-// I'm responsible, easy to work with, and very excited to learn and grow in this field.
-// I'm currently building a dental clinic software in my free time, and studying as a programmer analyst in Chile.
-// I'm here reviewing some basics like nested loops, because sometimes I forget them xd
-// With all due respect, if you're looking for a Jr. developer ready to work hard, I'm your guy =)
-// Greetings!
-// English level: B1-B2
-
 let month = "November";
 let fortune = Math.floor(Math.random() * 12) + 1;
 
